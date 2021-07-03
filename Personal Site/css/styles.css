@@ -1,15 +1,19 @@
 body {
     background-color:wheat;
-    margin: 0;
-    text-align: center;
+    margin: 0;  
 }
 
 h1 {
     margin: 0 auto 0 auto;
 }
 
+#cloud2{
+    margin-left: 0;
+    align-self: initial;
+}
+
 .image{
-    position: relative;
+    margin: 0;
 }
 
 div {
