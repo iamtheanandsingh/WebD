@@ -7,13 +7,26 @@ h1 {
     margin: 0 auto 0 auto;
 }
 
-#cloud2{
-    margin-left: 0;
-    align-self: initial;
+.clouds{
+    position: absolute;
+    right: 50%;
+    bottom: 80%;
+    align-content: center;
 }
 
-.image{
-    margin: 0;
+.name-container{
+    margin-top: 100px;
+}
+
+.house{
+    position: absolute;
+    margin-left: 100px;
+}
+
+.sun{
+    position: absolute;
+    margin-right: 10px;
+    margin-top: 10%;
 }
 
 div {
