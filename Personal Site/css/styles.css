@@ -1,32 +1,47 @@
 body {
     background-color:wheat;
-    margin: 0;  
+    margin: 0; 
+    text-align: center;
+    font-family: 'Qahiri', serif;
 }
 
 h1 {
+    font-style: 'Sacramento', sans-serif;
     margin: 0 auto 0 auto;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
 }
 
 .clouds{
     position: absolute;
-    right: 50%;
+    right: 60%;
     bottom: 80%;
     align-content: center;
 }
 
 .name-container{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .house{
     position: absolute;
-    margin-left: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
 }
 
 .sun{
     position: absolute;
-    margin-right: 10px;
-    margin-top: 10%;
+    margin-left: 1000px;
+    margin-top: -200px;
 }
 
 div {
