@@ -28,6 +28,12 @@ h3 {
     align-content: center;
 }
 
+.middle-container{
+    margin-top: 900px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .name-container{
     margin-top: 150px;
 }
@@ -42,6 +48,10 @@ h3 {
     position: absolute;
     margin-left: 1000px;
     margin-top: -300px;
+}
+
+.bottom-container{
+    margin-top: 200px;
 }
 
 div {
