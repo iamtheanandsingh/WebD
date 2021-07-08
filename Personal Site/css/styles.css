@@ -40,8 +40,13 @@ h3 {
 
 .house{
     position: absolute;
-    margin-top: 30px;
-    margin-left: 200px;
+    align-self: center;
+    margin-left: 150px;
+}
+
+.profile{
+    border-radius: 20px;
+    size: inherit;
 }
 
 .sun{
@@ -51,7 +56,9 @@ h3 {
 }
 
 .bottom-container{
-    margin-top: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
 }
 
 div {
