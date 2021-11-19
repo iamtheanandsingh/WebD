@@ -1,0 +1,13 @@
+.body{
+  background-size: 100% 100%;
+}
+
+.div{
+  
+}
+
+.img{
+  width: auto;
+  height: auto;
+  object-fit: fill;
+}
